@@ -12,6 +12,8 @@ N/A
 
 The webpage can be used to browse information about SEO, online reputation, and social media marketing. Each of these subjects are divided into sections which are linked in the navigation bar. 
 
+![full-webpage](https://user-images.githubusercontent.com/121981411/215391528-cdcbd8a6-7363-485e-bc30-9dce497fdb2e.png)
+
 ## Credits
 
 Starter Code: https://github.com/coding-boot-camp/urban-octo-telegram
