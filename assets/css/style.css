@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* header and nav style */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -52,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/* hero style */
 .hero {
     height: 800px;
     width: 100%;
@@ -61,11 +63,14 @@ p {
     background-position: center;
 }
 
+/* section content style */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    min-width: 700px;
 }
+/* min-width prevents text overflow when browser is sized down */
 
 .content div {
     margin-bottom: 20px;
@@ -76,15 +81,15 @@ p {
     color: #ffffff;
 }
 
-.content div h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
 .content div img {
     max-height: 200px;
     float: left;
     margin-right: 25px;
+}
+
+.content div h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 #mid-pic {
@@ -92,6 +97,7 @@ p {
     margin-left: 25px;
 }
 
+/* aside style */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -119,6 +125,7 @@ aside img {
     max-width: 150px;
 }
 
+/* footer style */
 footer {
     padding: 20px;
     clear: both;
