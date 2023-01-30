@@ -17,7 +17,7 @@ p {
     font-size: 16px;
 }
 
-/* header and nav style */
+/* Header and Navigation */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -53,7 +53,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/* hero style */
+/* Hero */
 .hero {
     height: 800px;
     width: 100%;
@@ -64,7 +64,7 @@ header nav ul li {
     background-attachment: fixed;
 }
 
-/* section content style */
+/* Content */
 .content {
     width: 75%;
     display: inline-block;
@@ -98,7 +98,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/* aside style */
+/* Aside */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -126,7 +126,7 @@ aside img {
     max-width: 150px;
 }
 
-/* footer style */
+/* Footer */
 footer {
     padding: 20px;
     clear: both;
