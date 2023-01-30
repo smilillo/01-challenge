@@ -60,6 +60,7 @@ p {
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
+    background-attachment: fixed;
     background-position: center;
 }
 
