@@ -10,22 +10,11 @@ N/A
 
 ## Usage
 
-The webpage can be utilized to learn more about the importance of SEO 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+The webpage can be used to browse information about SEO, online reputation, and social media marketing. Each of these subjects are divided into sections which are linked in the navigation bar. 
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+Starter Code: https://github.com/coding-boot-camp/urban-octo-telegram
 
 ## License
 
